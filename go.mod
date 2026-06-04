@@ -1,4 +1,4 @@
-module github.com/mariana/rate-limiter
+module github.com/marianamachadomlo/goexpert-ratelimiter
 
 go 1.22
 
